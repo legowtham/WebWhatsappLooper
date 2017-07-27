@@ -17,5 +17,5 @@ var inputComponent = findReactComponent(document.getElementsByClassName('block-c
 var chat = inputComponent.props.chat;
 
 
-chat.sendMessage('I love you every second baby!!')// LOL! She will be impressed af!
+chat.sendMessage('I love you every second baby!!')// LOL! Bet She will be impressed af!
 }, 1000); //Just remove the time interval to remove the loop process.
