@@ -1,6 +1,7 @@
 //Use the console with web.whatsapp.com opened
 //select the person's chat screen
 //Run the code. 
+//Shout out to this http://stackoverflow.com/a/39165137/1249001
 var intervalID = setInterval(function () {
 function findReactComponent(dom) {
     for (var key in dom)
